@@ -1,3 +1,4 @@
+//Code created by Bouraoui Elfeghih
 #include "InventoryItem.h"
 
 Inventory::Inventory()
