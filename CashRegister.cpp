@@ -1,3 +1,4 @@
+//Code created by Bouraoui Elfeghih
 #include "CashRegister.h"
 
 void Register::addItem(Inventory toAdd)
