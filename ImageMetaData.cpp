@@ -1,3 +1,4 @@
+//Code created by Bouraoui Elfeghih
 #include "ImageMetaData.h"
 
 	std::string ImageMetaData::getFile() {
